@@ -1,0 +1,18 @@
+From: "Soporte de ejemplo" <avisos@example.com>
+Reply-To: ayuda@example.net
+To: estudiante@example.org
+Subject: =?UTF-8?Q?Acci=C3=B3n_urgente:_verifica_tu_contrase=C3=B1a?=
+Date: Tue, 8 Sep 2026 10:00:00 -0600
+Message-ID: <demo-sospechoso@example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hola:
+
+Acción requerida de inmediato. Revisa tu contraseña en
+http://192.0.2.25/verificar o consulta https://example.org/ayuda.
+
+Este correo es completamente ficticio y se usa solamente como dato de prueba.
+La IP 192.0.2.25 pertenece a un rango reservado para documentación.
+
